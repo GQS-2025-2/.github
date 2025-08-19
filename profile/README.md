@@ -1,5 +1,3 @@
-# .github
-
 ### 🏢 Organização no GitHub: **Gestão e Qualidade de Software 2025.2**
 **Bem-vindo(a) à organização do GitHub dedicada à Unidade Curricular de Gestão e Qualidade de Software!** 🚀
 
