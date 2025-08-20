@@ -118,7 +118,7 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 | Capa | Título / Autor/ Disponível em |
 |------|----------------|
-| ![Pressman](./img/pressman.jpg) | **Engenharia de Software** – Roger Pressman | Minha Biblioteca |
+| ![Pressman](./img/pressman.png) | **Engenharia de Software** – Roger Pressman | Minha Biblioteca |
 | ![Sommerville](./img/sommerville.jpg) | **Engenharia de Software** – Ian Sommerville | Biblioteca Virtual|
 | ![ISO9126](./img/iso9126.jpg) | **Norma ISO/IEC 9126** – Qualidade de Produto de Software | Minha Biblioteca|
 | ![CMMI](./img/cmmi.jpg) | **CMMI for Development** – SEI | |
