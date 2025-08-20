@@ -20,11 +20,11 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 📧 **Contato:** rafaela.cruz@ulife.com.br  
 
 ## 👨🏾‍🏫 Professor
-** Fabrício Geraldo Valadares**
+**Fabrício Geraldo Valadares**
 - Mestre em ciência da computação - UFOP/OP
 - Bacharel em ciência da computação - FIPEL/MG
 - Áreas de atuação: Desenvolvimento mobile android nativo, sistemas de computação, também dou pitacos no back-end e bancos de dados.
-
+📧 **Contato:** fabricio.valadares@ulife.com.br
 ---
 
 ## 🎯 Objetivos da UC  
@@ -56,7 +56,7 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 ---
 
 ## 🗓️ Dias e Horários  
-- **Quarta-feira** → Presencial (Prof. Rafaela)  
+- **Quarta-feira** → Presencial (Prof. Rafaela)/Presencial (Prof. Fabrício - CM)  
 - **Quinta-feira** → Online (Prof. Allyson)  
 - **Busca ativa** → Plataforma **Ulife**  
 
