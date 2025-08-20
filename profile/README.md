@@ -116,13 +116,18 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 ## 📖 Referências Bibliográficas  
 
-| Capa | Título / Autor/ Disponível em |
+## 📖 Referências Bibliográficas  
+
+| Capa | Título / Autor |
 |------|----------------|
-| ![Pressman](./img/pressman.png) | **Engenharia de Software** – Roger Pressman | Minha Biblioteca |
-| ![Sommerville](./img/sommerville.jpg) | **Engenharia de Software** – Ian Sommerville | Biblioteca Virtual|
-| ![ISO9126](./img/iso9126.jpg) | **Norma ISO/IEC 9126** – Qualidade de Produto de Software | Minha Biblioteca|
-| ![CMMI](./img/cmmi.jpg) | **CMMI for Development** – SEI | |
-| ![MPSBR](./img/mpsbr.jpg) | **MPS.BR – Melhoria de Processo do Software Brasileiro** | |
+| <img src="./img/pressman.jpg" alt="Pressman" width="120"/> | **Engenharia de Software** – Roger Pressman |
+| <img src="./img/sommerville.jpg" alt="Sommerville" width="120"/> | **Engenharia de Software** – Ian Sommerville |
+| <img src="./img/goncalves.jpeg" alt="Goncalves" width="120"/> | **Teste de Software e Gerência de Configuração** – Priscila F. Gonçalves et al |
+| <img src="./img/cmmi.jpg" alt="CMMI" width="120"/> | **CMMI for Development** – Mary B. Chrissis et al |
+| <img src="./img/gallotti.jpg" alt="Gallotti" width="120"/> | **Qualidade de Software** – Giocondo M. A. Gallotti |
+| <img src="./img/mps.jpg" alt="MPS.BR" width="120"/> | **MPS.BR – Melhoria de Processo do Software Brasileiro** |
+| <img src="./img/muniz.jpg" alt="Muniz" width="120"/> | **Jornada DevOps** – Antonio Muniz et al |
+| <img src="./img/delamaro.jpeg" alt="Delamaro" width="120"/> | **Introdução ao Teste de Software** – Márcio E. Delamaro et al |
 
 ---
 
