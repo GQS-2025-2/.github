@@ -131,24 +131,31 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 ---
 
-## 🗂 Estrutura dos Repositórios
+## 📂 Repositórios da Organização  
 
-A organização será dividida em repositórios temáticos para facilitar o acesso aos conteúdos:
+🔹 **1. [01.Materiais](https://github.com/GQS-2025-2/01.Materiais)**  
+📌 Inclui apresentações e referências úteis sobre os temas abordados.  
 
-### 🔹 **1. Repositório: `01.Materiais-de-apoio`**
-📌 Inclui apresentações e referências úteis sobre os temas abordados.
+---
 
-### 🔹 **2. Repositório: `02.Exemplos`**
-📌 Apresenta exemplos práticos e códigos ilustrando os conceitos da abordados.
+🔹 **2. [02.Exemplos](https://github.com/GQS-2025-2/02.Exemplos)**  
+📌 Apresenta exemplos práticos e códigos ilustrando os conceitos abordados.  
 
-### 🔹 **3. Repositório: `03.Exercicios`**
-📌 Contém listas de exercícios organizadas por tema, com desafios para reforçar os conceitos estudados e as resoluções.
+---
 
-### 🔹 **4. Repositório: `04.Projetos`**
-📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.
+🔹 **3. [03.Exercicios](https://github.com/GQS-2025-2/03.Exercicios)**  
+📌 Contém listas de exercícios organizadas por tema, com desafios para reforçar os conceitos estudados e as resoluções.  
 
-### 🔹 **5. Repositório: `05.A3-Projeto`**
-📌 Especificação do Projeto A3.
+---
+
+🔹 **4. [04.Projetos](https://github.com/GQS-2025-2/04.Projetos)**  
+📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.  
+
+---
+
+🔹 **5. [05.A3-Projeto](https://github.com/GQS-2025-2/05.A3-Projeto)**  
+📌 Especificação do Projeto A3.  
+
 
 ---
 
