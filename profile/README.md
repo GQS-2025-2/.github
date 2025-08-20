@@ -1,10 +1,8 @@
-# .github
+### 🏢 **Gestão e Qualidade de Software - 2025.2**
 
-### 🏢 Organização no GitHub: **Gestão e Qualidade de Software 2025.2**
 **Bem-vindo(a) à organização do GitHub dedicada à Unidade Curricular de Gestão e Qualidade de Software!** 🚀
 
 Este espaço foi criado para disponibilizar materiais, exercícios, resoluções e exemplos práticos dos principais conceitos abordados na unidade curricular.
-# Gestão e Qualidade de Software  
 
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-blue)  
 ![Disciplina](https://img.shields.io/badge/Disciplina-GQS%20UNA-green)  
@@ -102,7 +100,7 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 ---
 
-## 🚀 Extensão  - Obrigatório pelo MEC
+## 🚀 Extensão
 
 - Ânima Lab Hub → [animahub.com.br](https://www.animahub.com.br)  
 
@@ -113,8 +111,6 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 - Tech Week → 22 a 26 de setembro  
 
 ---
-
-## 📖 Referências Bibliográficas  
 
 ## 📖 Referências Bibliográficas  
 
@@ -130,18 +126,18 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
     <td><img src="./img/mps.jpg" alt="MPS.BR" width="120" height="160"/></td>
     <td><img src="./img/muniz.jpg" alt="Muniz" width="120" height="160"/></td>
     <td><img src="./img/delamaro.jpeg" alt="Delamaro" width="120" height="160"/></td>
-    <td></td>
   </tr>
 </table>
 
 ---
 
 ## ❓ Dúvidas  
-Entre em contato pelo e-mail institucional ou abra uma **Issue** no repositório.  
 
-## 🗂 Estrutura da Organização no GitHub
+Entre em contato pelo e-mail institucional.
 
-A organização será dividida em repositórios temáticos para facilitar o acesso aos conteúdos e exercícios:
+## 🗂 Estrutura dos Repositórios
+
+A organização será dividida em repositórios temáticos para facilitar o acesso aos conteúdos:
 
 ### 🔹 **1. Repositório: `01.Materiais-de-apoio`**
 📌 Inclui apresentações e referências úteis sobre os temas abordados.
@@ -155,8 +151,6 @@ A organização será dividida em repositórios temáticos para facilitar o aces
 ### 🔹 **4. Repositório: `04.Projetos`**
 📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.
 
-
 ---
-
 
 ### 🎯 "É fazendo que se aprende a fazer aquilo que se deve aprender a fazer". Aristóteles 🚀  
