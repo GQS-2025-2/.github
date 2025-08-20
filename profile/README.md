@@ -19,6 +19,12 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 📧 **Contato:** rafaela.cruz@ulife.com.br  
 
+## 👨🏾‍🏫 Professor
+** Fabrício Geraldo Valadares**
+- Mestre em ciência da computação - UFOP/OP
+- Bacharel em ciência da computação - FIPEL/MG
+- Áreas de atuação: Desenvolvimento mobile android nativo, sistemas de computação, também dou pitacos no back-end e bancos de dados.
+
 ---
 
 ## 🎯 Objetivos da UC  
