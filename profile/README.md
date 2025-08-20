@@ -123,13 +123,11 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
     <td><img src="./img/pressman.jpg" alt="Pressman" width="120" height="160"/></td>
     <td><img src="./img/sommerville.jpg" alt="Sommerville" width="120" height="160"/></td>
     <td><img src="./img/goncalves.jpeg" alt="Goncalves" width="120" height="160"/></td>
+    <td><img src="./img/cmmi.jpg" alt="CMMI" width="120" height="160"/></td>
   </tr>
   <tr>
-    <td><img src="./img/cmmi.jpg" alt="CMMI" width="120" height="160"/></td>
     <td><img src="./img/gallotti.jpg" alt="Gallotti" width="120" height="160"/></td>
     <td><img src="./img/mps.jpg" alt="MPS.BR" width="120" height="160"/></td>
-  </tr>
-  <tr>
     <td><img src="./img/muniz.jpg" alt="Muniz" width="120" height="160"/></td>
     <td><img src="./img/delamaro.jpeg" alt="Delamaro" width="120" height="160"/></td>
     <td></td>
