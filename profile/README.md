@@ -152,7 +152,7 @@ A organização será dividida em repositórios temáticos para facilitar o aces
 📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.
 
 ### 🔹 **5. Repositório: `05.A3-Projeto`**
-📌 Projetos práticos integrando os conceitos de **qualidade de software, DevOps e testes**.
+📌 Especificação do Projeto A3.
 
 ---
 
