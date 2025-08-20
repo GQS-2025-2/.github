@@ -131,10 +131,6 @@ Este espaço foi criado para disponibilizar materiais, exercícios, resoluções
 
 ---
 
-## ❓ Dúvidas  
-
-Entre em contato pelo e-mail institucional.
-
 ## 🗂 Estrutura dos Repositórios
 
 A organização será dividida em repositórios temáticos para facilitar o acesso aos conteúdos:
@@ -153,6 +149,12 @@ A organização será dividida em repositórios temáticos para facilitar o aces
 
 ### 🔹 **5. Repositório: `05.A3-Projeto`**
 📌 Especificação do Projeto A3.
+
+---
+
+## ❓ Dúvidas  
+
+Entre em contato pelo e-mail institucional.
 
 ---
 
